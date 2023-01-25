@@ -1,0 +1,51 @@
+body{
+    font-family: 'roboto', sans-serif;
+    background-color: #EAEAEA;
+}
+
+main{
+    margin: 3.4375em 5.9375em;
+    background-color: #ffffff;
+    border-radius: 0.9375em;
+}
+
+h1, figure{
+    text-align: center;
+    margin: 0.3125em 0;
+    padding: 0.9375em;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.9375em;
+}
+
+figcaption{
+    text-align: end;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+ol{
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+p{
+    padding: 1em;
+}
+
+blockquote{
+    text-align: center;
+    padding: 1.2em;
+}
